@@ -11,6 +11,7 @@ namespace Konzole.InventorySystem.Web.Controllers
     {
         public ActionResult Index()
         {
+          //sskfjdsk
 
             //Sample lang sinesearch ko pa yung pagtawag sa api 
             //string response = string.Empty;
