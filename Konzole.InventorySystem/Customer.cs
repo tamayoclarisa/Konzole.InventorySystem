@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Konzole.InventorySystem
 {
-
+    //pogi
     [Table("Customer", Schema = "IV")]
     public class Customer
     {
