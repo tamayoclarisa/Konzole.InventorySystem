@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace Konzole.InventorySystem
 {
     //pogi
+    //si willy
     [Table("Customer", Schema = "IV")]
     public class Customer
     {
